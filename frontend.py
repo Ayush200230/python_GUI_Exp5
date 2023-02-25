@@ -1,4 +1,3 @@
-from ctypes import alignment
 from msilib.schema import ListBox
 from tkinter import *
 
