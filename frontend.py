@@ -68,5 +68,4 @@ btn2 = ttk.Button(window, text="Display Contact")
 btn2.grid(row=2, column=0)
 btn3 = ttk.Button(window, text="Search")
 btn3.grid(row=9, column=1)
-
 window.mainloop()
